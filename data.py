@@ -11,6 +11,10 @@ import numpy as np
 import csv
 import sys
 
+
+#Lets get this code to github
+
+
 class Data:
     def __init__(self, filepath=None, headers=None, data=None, header2col=None):
         '''Data object constructor
